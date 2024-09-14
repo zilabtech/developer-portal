@@ -1172,6 +1172,15 @@ export const Showcases = [
     source: null,
     tags: ["favorite", "educational"],
   },
+   {
+    title: "ADATools - BuyBot/TrendingBot",
+    description:
+      "ADA Tools brings you the first-ever OG Telegram Buy Bot and Trending Bot, specially designed for Cardano (ADA) tokens. With real-time buy notifications and powerful trending insights, ADA Tools revolutionizes how Cardano projects engage with their communities.​",
+    preview: require("./showcase/ada-tools-tech.png"),
+    website: "https://adatech.tools",
+    source: null,
+    tags: ["metadata", "analytics"],
+  },
 ];
 
 export const TagList = Object.keys(Tags);
